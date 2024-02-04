@@ -21,7 +21,8 @@ The following **required** functionality is completed:
 - Added textfields
 - Added image under three labels and button
  
-
+## Video Walkthrough
+-<div style="position: relative; padding-bottom: 64.98194945848375%; height: 0;"><iframe src="https://www.loom.com/embed/d53c908f51d24716bc55ac8981a35e8f?sid=2fa4be76-e3ce-4ad0-8b54-a648f9e8e467" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## App Brainstorming
 
