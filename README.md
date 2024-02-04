@@ -22,7 +22,7 @@ The following **required** functionality is completed:
 - Added image under three labels and button
  
 ## Video Walkthrough
--<div>
+<div>
     <a href="https://www.loom.com/share/d53c908f51d24716bc55ac8981a35e8f">
      
     </a>
