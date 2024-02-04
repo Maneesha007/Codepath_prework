@@ -14,8 +14,12 @@ Time spent: 5 hours spent in total
 
 The following **required** functionality is completed:
 
-- [ YES] Users are see a screen with three labels and a button
-- [ YES] Tapping the button changes the screen color to a random color
+- [ ] Users are see a screen with three labels and a button
+- [ ] Tapping the button changes the screen color to a random color
+
+## Additional features
+- Added textfields
+- Added image under three labels and button
  
 
 
